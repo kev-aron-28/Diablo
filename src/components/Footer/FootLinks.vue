@@ -4,7 +4,7 @@
       <b-nav-item :to="{ name: 'Home' }">Home</b-nav-item>
       <b-nav-item :to="{ name: 'About' }">About</b-nav-item>
       <b-nav-item
-        href="https://github.com/baumannzone/diablo3-vue-platzi"
+        href="https://www.instagram.com/kev_aron_28/"
         target="_blank"
         >Github</b-nav-item
       >
