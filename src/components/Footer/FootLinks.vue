@@ -4,7 +4,7 @@
       <b-nav-item :to="{ name: 'Home' }">Home</b-nav-item>
       <b-nav-item :to="{ name: 'About' }">About</b-nav-item>
       <b-nav-item
-        href="https://www.instagram.com/kev_aron_28/"
+        href="https://github.com/kev-aron-28"
         target="_blank"
         >Github</b-nav-item
       >
